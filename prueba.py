@@ -5,12 +5,12 @@ import cx_Oracle
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.oracle',
-        'NAME': 'TPBANKDEV',
-        'USER': 'TPBANKOWNER',
-        'PASSWORD': 'tpBankOwner21',
-        'HOST': '35.215.108.35',
-        'PORT': '1521'
+        'ENGINE': '',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': ''
     }
 }
 
