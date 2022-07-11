@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 cx_oracle
 Django                   
+=======
+cx_oracle
+Django                   
+>>>>>>> 669af5df415512c52982d50d9e2bd60d83e3da23
 djangorestframework
